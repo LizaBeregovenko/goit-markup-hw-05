@@ -792,5 +792,6 @@ p {
   margin-right: 8px;
 }
 
-/* .modal-btn-icon {
-} */
+.modal-btn-icon {
+  fill: var(--color-title2);
+}
