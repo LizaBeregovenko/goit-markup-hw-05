@@ -775,8 +775,8 @@ p {
 }
 .modal-btn {
   position: absolute;
-  top: 0;
-  right: 0;
+  top: 8px;
+  right: 8px;
   width: 30px;
   height: 30px;
   padding: 0;
@@ -788,10 +788,8 @@ p {
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  margin-top: 8px;
-  margin-right: 8px;
 }
 
-.modal-btn-icon {
+/* .modal-btn-icon {
   fill: var(--color-title2);
-}
+} */
